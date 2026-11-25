@@ -1,0 +1,27 @@
+{
+  "name": "backend-api-service",
+  "version": "1.0.0",
+  "description": "AI-assisted engineering starter project for learning and further development.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwaraka-reddy/backend-api-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dwaraka-reddy/backend-api-service/issues"
+  },
+  "homepage": "https://github.com/dwaraka-reddy/backend-api-service#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0"
+  }
+}
